@@ -2,6 +2,8 @@
 [![Build Status](https://ci.appveyor.com/api/projects/status/u9rmuaw147q578w0/branch/master?svg=true)](https://ci.appveyor.com/project/wonder-mice/zf-log/branch/master)
 [![Gitter Chat](https://badges.gitter.im/wonder-mice/zf_log.svg)](https://gitter.im/wonder-mice/zf_log?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+### This fork of [zf_log](https://github.com/wonder-mice/zf_log) was created to add the ablility to use UTC timestamps in log files for use in [ardopcf](https://github.com/pflarue/ardop)
+
 zf_log
 ========
 
